@@ -1,0 +1,6 @@
+images/placeholder.txt
+data/placeholder.txt
+docs/placeholder.txt
+hr_analytics_dashboard.png
+
+https://raw.githubusercontent.com/Olajumoke35/olajumokemedunoyeportfolio/main/hr_analytics_dashboard.png
